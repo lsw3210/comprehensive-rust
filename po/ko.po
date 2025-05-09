@@ -152,6 +152,13 @@ msgstr ""
 msgid "Blocks and Scopes"
 msgstr "블록 및 범위"
 
+#: src/SUMMARY.md src/control-flow-basics/blocks-and-scopes.md
+msgid "If the last expression ends with ;, then the resulting value and type is ().
+
+A variable’s scope is limited to the enclosing block."
+msgstr "마지막 표현식이 ;으로 끝난다면 결과값과 형식은 ()입니다.
+변수의 범위는 둘러싸인 블록으로 제한됩니다."
+
 #: src/SUMMARY.md src/control-flow-basics/blocks-and-scopes/scopes.md
 msgid "Scopes and Shadowing"
 msgstr "범위(Scopes)와 쉐도잉(Shadowing)"
