@@ -148,6 +148,10 @@ msgstr "`break`와 `continue`"
 msgid "Labels"
 msgstr ""
 
+#: src/SUMMARY.md src/control-flow-basics/break-continue/labels.md
+msgid "non-tivial"
+msgstr "최소한 한 개의"
+
 #: src/SUMMARY.md src/control-flow-basics/blocks-and-scopes.md
 msgid "Blocks and Scopes"
 msgstr "블록 및 범위"
